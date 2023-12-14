@@ -10,7 +10,8 @@
 
 ### Screenshots
 
-*Insert Screenshots here*
+![tYGWfHV](https://github.com/abbaselmas/Assignment/assets/147770444/a576c6c0-e188-4ada-80a7-6096b99ff92e)
+
 
 ### Equipments List
 
